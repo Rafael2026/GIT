@@ -7,8 +7,7 @@
 </a>
 
 <a href = "https://git-scm.com/book/en/v2">
-  <p></p> <br>
-  <p>Click here to download the book.</p>
+  <p>Click here to download the book.</p> <br>
 </a>
 
 ## GIT BASH
