@@ -6,7 +6,7 @@
   <img src = "https://git-scm.com/images/progit2.png" alt = "Libro Pro spbre GIT">
 </a>
 
-### If someone clicks on this book, he/she will go directly to a website where you can download the book. <br>
+### Click here to download the book. <br>
 
 ## GIT BASH
 <p>I will work with GIT BASH</p> <br>
