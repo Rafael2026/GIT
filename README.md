@@ -3,7 +3,7 @@
 ### This book contains interesting information about git.
 
 <a href = "https://git-scm.com/book/en/v2">
-  <img src = "https://git-scm.com/images/progit2.png" alt = "OFFICIAL GIT BOOK">
+  <img src = "https://git-scm.com/images/progit2.png" alt = "OFFICIAL GIT BOOK"> <br>
 </a>
 
 <a href = "https://git-scm.com/book/en/v2">
