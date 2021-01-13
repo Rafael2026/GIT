@@ -2,11 +2,11 @@
 
 ### This book contains interesting information about git.
 
-<a href = "https://git-scm.com/book/en/v2">
-  <img src = "https://git-scm.com/images/progit2.png" alt = "Libro Pro spbre GIT">
-</a>
+<img src = "https://git-scm.com/images/progit2.png" alt = "OFFICIAL GIT BOOK">
 
-### Click here to download the book. <br>
+<a href = "https://git-scm.com/book/en/v2">
+  ### Click here to download the book. <br>
+</a>
 
 ## GIT BASH
 ### I will work with GIT BASH. <br>
