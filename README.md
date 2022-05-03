@@ -6,4 +6,4 @@
 <p>Click on the book to download it</p>
 
 ## W3 Schools
-<a href="https://www.w3schools.com/git/default.asp">GIT - W3 Schools</a>
+<a href="https://www.w3schools.com/git/default.asp">Learn GIT</a>
