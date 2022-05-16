@@ -10,9 +10,7 @@
 
 ## Youtube
 [![IMAGE ALT TEXT HERE](https://i3.ytimg.com/vi/VdGzPZ31ts8/maxresdefault.jpg)](https://www.youtube.com/watch?v=VdGzPZ31ts8)
-<p>Canal de youtube: </p>
-<a href="https://www.youtube.com/c/HolaMundoDev">Hola Mundo</a><br>
+<p>Canal de youtube: </p><a href="https://www.youtube.com/c/HolaMundoDev">Hola Mundo</a><br>
 
 [![IMAGE ALT TEXT HERE](https://i3.ytimg.com/vi/jGehuhFhtnE/maxresdefault.jpg)](https://www.youtube.com/watch?v=jGehuhFhtnE)
-<p>Canal de youtube: </p>
-<a href="https://www.youtube.com/channel/UCP15FVAA2UL-QOcGhy7-ezA">EDTeam</a>
+<p>Canal de youtube: </p><a href="https://www.youtube.com/channel/UCP15FVAA2UL-QOcGhy7-ezA">EDTeam</a>
