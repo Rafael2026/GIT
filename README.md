@@ -8,7 +8,7 @@
 ## W3 Schools
 <a href="https://www.w3schools.com/git/default.asp">Learn to work with GIT</a>
 
-## Youtube
+## Youtube legends
 [![IMAGE ALT TEXT HERE](https://i3.ytimg.com/vi/VdGzPZ31ts8/maxresdefault.jpg)](https://www.youtube.com/watch?v=VdGzPZ31ts8)
 <p>Canal de youtube: <a href="https://www.youtube.com/c/HolaMundoDev">Hola Mundo</a></p><br>
 
