@@ -12,5 +12,5 @@
 [![IMAGE ALT TEXT HERE](https://i3.ytimg.com/vi/VdGzPZ31ts8/maxresdefault.jpg)](https://www.youtube.com/watch?v=VdGzPZ31ts8)
 <p>Canal de youtube: <a href="https://www.youtube.com/c/HolaMundoDev">Hola Mundo</a></p><br>
 
-[![IMAGE ALT TEXT HERE](https://i3.ytimg.com/vi/jGehuhFhtnE/maxresdefault.jpg)](https://www.youtube.com/watch?v=jGehuhFhtnE)
+<a href="https://www.youtube.com/watch?v=jGehuhFhtnE">Learn to use git in one hour - Hello world youtube</a>
 <p>Canal de youtube: <a href="https://www.youtube.com/channel/UCP15FVAA2UL-QOcGhy7-ezA">EDTeam</a></p>
