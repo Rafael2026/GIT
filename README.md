@@ -17,3 +17,6 @@
 
 ## Manuel Cillero
 <a href="https://manuel.cillero.es/doc/apuntes-tic/herramientas/git/solucion-de-problemas-en-git/">Fix GIT problems</a>
+
+## Git cheat-sheet
+<a href="https://training.github.com/downloads/es_ES/github-git-cheat-sheet/">(Github-git) cheat-sheet</a>
