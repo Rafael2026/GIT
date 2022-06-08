@@ -14,3 +14,6 @@
 
 <a href="https://www.youtube.com/watch?v=jGehuhFhtnE">What is Git and how it works? - EDteam youtube</a><br>
 <p>Youtube channel: <a href="https://www.youtube.com/channel/UCP15FVAA2UL-QOcGhy7-ezA">EDTeam</a></p>
+
+## Manuel Cillero
+<a href="https://manuel.cillero.es/doc/apuntes-tic/herramientas/git/solucion-de-problemas-en-git/">Fix GIT problems</a>
