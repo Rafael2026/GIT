@@ -9,8 +9,6 @@
   <img src="https://d2sofvawe08yqg.cloudfront.net/gitygithub/s_hero?1620545969" alt="PRO GIT">
 </a>
 
-<p>Click on the book to download it</p>
-
 ## W3 Schools
 <a href="https://www.w3schools.com/git/default.asp">Learn to work with GIT</a>
 
