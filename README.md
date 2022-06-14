@@ -9,8 +9,8 @@
   <img src="https://d2sofvawe08yqg.cloudfront.net/gitygithub/s_hero?1620545969" alt="PRO GIT">
 </a>
 
-## W3 Schools
-<a href="https://www.w3schools.com/git/default.asp">Learn to work with GIT</a>
+## GIT W3 Schools
+<a href="https://www.w3schools.com/git/default.asp">Official website</a>
 
 ## Youtube legends
 <a href="https://www.youtube.com/watch?v=VdGzPZ31ts8">Learn git in one hour - Hello world youtube</a><br>
