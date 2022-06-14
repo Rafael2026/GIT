@@ -24,3 +24,6 @@
 
 ## Git cheat-sheet
 <a href="https://training.github.com/downloads/es_ES/github-git-cheat-sheet/">(Github-git) cheat-sheet</a>
+
+## Infographics online
+<a href="https://edteam-media.s3.amazonaws.com/community/original/79dab1f0-3c3d-493c-80e0-1dcbadc54f62.jpg">EdTeam - GIT infografic</a>
