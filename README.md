@@ -27,3 +27,20 @@
 
 ## Infographics online
 <a href="https://edteam-media.s3.amazonaws.com/community/original/79dab1f0-3c3d-493c-80e0-1dcbadc54f62.jpg">EdTeam - GIT infografic</a>
+
+## Offical documentation
+<ul>
+  
+  <li>
+    <a href="https://git-scm.com/book/en/v2/Git-Branching-Remote-Branches">Remote branches</a>
+  </li>
+  
+  <li>
+    <a href="https://git-scm.com/docs/git-merge">Git merge</a>
+  </li>
+  
+  <li>
+    <a href="https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History">Commits History</a>
+  </li>
+
+</ul>
