@@ -22,8 +22,10 @@
 ## Manuel Cillero
 <a href="https://manuel.cillero.es/doc/apuntes-tic/herramientas/git/solucion-de-problemas-en-git/">Fix GIT problems</a>
 
-## Git cheat-sheet
-<a href="https://training.github.com/downloads/es_ES/github-git-cheat-sheet/">(Github-git) cheat-sheet</a>
+## Cheat sheets
+<a href="https://training.github.com/downloads/es_ES/github-git-cheat-sheet/">Training github</a>
+
+<a href="https://drive.google.com/file/d/1ZIBXsBpp_0zIg0ZxY58TEOWsBgt8NCQU/view?usp=sharing">Git</a>
 
 ## Infographics online
 <a href="https://edteam-media.s3.amazonaws.com/community/original/79dab1f0-3c3d-493c-80e0-1dcbadc54f62.jpg">EdTeam - GIT infografic</a>
