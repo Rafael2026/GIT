@@ -3,8 +3,6 @@
   <img src="https://git-scm.com/images/progit2.png" alt="PRO GIT">
 </a>
 
-<br/>
-
 <a href="https://leanpub.com/gitygithub/">
   <img src="https://d2sofvawe08yqg.cloudfront.net/gitygithub/s_hero?1620545969" alt="PRO GIT">
 </a>
