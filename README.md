@@ -12,7 +12,7 @@
 
 ## Youtube legends
 <a href="https://www.youtube.com/watch?v=VdGzPZ31ts8">Learn git in one hour</a><br/>
-<p>Youtube channel: <a href="https://www.youtube.com/c/HolaMundoDev">Hello world</a></p><br/>
+<p>Youtube channel: <a href="https://www.youtube.com/c/HolaMundoDev">Hello world</a></p>
 
 <a href="https://www.youtube.com/watch?v=jGehuhFhtnE">What is Git and how it works?</a><br/>
 <p>Youtube channel: <a href="https://www.youtube.com/channel/UCP15FVAA2UL-QOcGhy7-ezA">EDTeam</a></p>
