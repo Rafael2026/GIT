@@ -26,7 +26,7 @@
 <a href="https://drive.google.com/file/d/1ZIBXsBpp_0zIg0ZxY58TEOWsBgt8NCQU/view?usp=sharing">Git</a>
 
 ## Infographics online
-<a href="https://edteam-media.s3.amazonaws.com/community/original/79dab1f0-3c3d-493c-80e0-1dcbadc54f62.jpg">EdTeam - GIT infografic</a>
+<a href="https://edteam-media.s3.amazonaws.com/community/original/79dab1f0-3c3d-493c-80e0-1dcbadc54f62.jpg">EdTeam - GIT infographic</a>
 
 ## Offical documentation
 <ul>
