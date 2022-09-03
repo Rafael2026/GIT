@@ -7,8 +7,8 @@
   <img src="https://d2sofvawe08yqg.cloudfront.net/gitygithub/s_hero?1620545969" alt="PRO GIT">
 </a>
 
-## GIT W3 Schools
-<a href="https://www.w3schools.com/git/default.asp">Official website</a>
+## W3 Schools
+<a href="https://www.w3schools.com/git/default.asp">Official GIT tutorial</a>
 
 ## Youtube legends
 <a href="https://www.youtube.com/watch?v=VdGzPZ31ts8">Learn git in one hour</a><br/>
@@ -23,10 +23,10 @@
 ## Cheat sheets
 <a href="https://training.github.com/downloads/es_ES/github-git-cheat-sheet/">Training github</a>
 
-<a href="https://drive.google.com/file/d/1ZIBXsBpp_0zIg0ZxY58TEOWsBgt8NCQU/view?usp=sharing">Git</a>
+<a href="https://drive.google.com/file/d/1ZIBXsBpp_0zIg0ZxY58TEOWsBgt8NCQU/view">Git</a>
 
-## Infographics online
-<a href="https://edteam-media.s3.amazonaws.com/community/original/79dab1f0-3c3d-493c-80e0-1dcbadc54f62.jpg">EdTeam - GIT infographic</a>
+## GIT infographic
+<a href="https://edteam-media.s3.amazonaws.com/community/original/79dab1f0-3c3d-493c-80e0-1dcbadc54f62.jpg">EdTeam infographic</a>
 
 ## Offical documentation
 <ul>
