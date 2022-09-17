@@ -1,6 +1,6 @@
 ## GIT BOOK
-- [![PRO GIT](https://git-scm.com/images/progit2.png)](https://git-scm.com/book/en/v2)
-- [![GIT and Github - Survival](https://d2sofvawe08yqg.cloudfront.net/gitygithub/s_hero?1620545969)](https://leanpub.com/gitygithub/)
+[![PRO GIT](https://git-scm.com/images/progit2.png)](https://git-scm.com/book/en/v2)
+[![GIT and Github - Survival](https://d2sofvawe08yqg.cloudfront.net/gitygithub/s_hero?1620545969)](https://leanpub.com/gitygithub/)
 
 ## GIT tutorial
 [w3 Schools](https://www.w3schools.com/git/default.asp)
