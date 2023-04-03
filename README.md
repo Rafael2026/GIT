@@ -8,9 +8,11 @@ W3 Schools: [link](https://www.w3schools.com/git/default.asp)
 
 ## Youtube legends
 [Learn git in one hour](https://www.youtube.com/watch?v=VdGzPZ31ts8)
+
 Youtube channel: [Hello world](https://www.youtube.com/c/HolaMundoDev)
 
 [What is Git and how it works?](https://www.youtube.com/watch?v=jGehuhFhtnE)
+
 Youtube channel: [EDTeam](https://www.youtube.com/channel/UCP15FVAA2UL-QOcGhy7-ezA)
 
 ## Manuel Cillero
